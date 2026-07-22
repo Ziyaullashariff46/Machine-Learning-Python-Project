@@ -33,3 +33,17 @@ To run this project locally and ensure all expected outcomes are met:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Ziyaullashariff46/Titanic-Survival-Prediction---AI-based-Machine-Learning-Project.git](https://github.com/Ziyaullashariff46/Titanic-Survival-Prediction---AI-based-Machine-Learning-Project.git)
+
+
+Navigate to the project directory:
+
+Bash
+cd Titanic-Survival-Prediction---AI-based-Machine-Learning-Project
+Install the required dependencies:
+
+Bash
+pip install pandas numpy scikit-learn matplotlib
+Run the main Python script or Jupyter Notebook to view the data processing, model training, and perfectly rendered explanations of the results.
+
+
+If you have a flowchart image or a specific Canva presentation link associated with this project, you can easily embed it directly under the **Project Workflow** section!
